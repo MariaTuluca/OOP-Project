@@ -1,0 +1,10 @@
+ArticolVestimentar Tricou_Metallica 15 50 Negru Berska
+ArticolVestimentar Tricou_AC\DC 24 70 Negru Cropp
+DiscVintage Master_of_Puppets 20 45 Universal 15.10.1986 Metallica Masters Vinil 3 0
+DiscVintage Thriller 30 100 Universal 10.05.1982 Michael_Jackson Thriller CD 2 1
+ArticolVestimentar Jacheta_Gothic 10 200 Gri Adidas
+Disc Highway_to_Hell 15 35 Epic 09.01.1979 AC_DC Hell Vinil 
+DiscVintage Abbey_Road 10 32 Apple 06.09.1969 The_Beatles Roads Vinil 3 0
+Disc Back_in_Black 100 10 Columbia 01.01.1980 AC_DC Colours CD 
+ArticolVestimentar Hanorac_Rock 10 175 Gri Nike
+Disc Master_of_Puppets 10 30 Universal 15.09.1986 Metallica Masters CD

@@ -1,0 +1,66 @@
+Procesare la momentul: 1.1.2025
+- procesarea comenzii 1
+Comenzile cu id-urile:  1  îi sunt asignate operatorului cu id-ul: 2.
+- procesarea comenzii 2
+Comenzile cu id-urile:  1  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2  îi sunt asignate operatorului cu id-ul: 3.
+- procesarea comenzii 3
+Comenzile cu id-urile:  1  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 4
+Comenzile cu id-urile:  1 4  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 5
+Comenzile cu id-urile:  1 4  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 5  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 6
+Comenzile cu id-urile:  1 4  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 5  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3 6  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 7
+Comenzile cu id-urile:  1 4 7  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 5  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3 6  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 8
+Comenzile cu id-urile:  1 4 7  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 5 8  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3 6  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 9
+Comenzile cu id-urile:  1 4 7  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 5 8  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3 6 9  îi sunt asignate operatorului cu id-ul: 4.
+- procesarea comenzii 10
+Operatori ocupati! Comanda 10 amanata!
+Comenzile cu id-urile:  1 4 7  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 5 8  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3 6 9  îi sunt asignate operatorului cu id-ul: 4.
+
+Procesare la momentul: 2.1.2025
+- finalizarea procesarii comenzii: 5
+- finalizarea procesarii comenzii: 6
+- finalizarea procesarii comenzii: 9
+- procesarea comenzii 10
+Comenzile cu id-urile:  1 4 7  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2 8  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3 10  îi sunt asignate operatorului cu id-ul: 4.
+
+Procesare la momentul: 3.1.2025
+- finalizarea procesarii comenzii: 4
+- finalizarea procesarii comenzii: 8
+- finalizarea procesarii comenzii: 10
+Comenzile cu id-urile:  1 7  îi sunt asignate operatorului cu id-ul: 2.
+Comenzile cu id-urile:  2  îi sunt asignate operatorului cu id-ul: 3.
+Comenzile cu id-urile:  3  îi sunt asignate operatorului cu id-ul: 4.
+
+Procesare la momentul: 4.1.2025
+- finalizarea procesarii comenzii: 1
+- finalizarea procesarii comenzii: 2
+- finalizarea procesarii comenzii: 3
+Comenzile cu id-urile:  7  îi sunt asignate operatorului cu id-ul: 2.
+
+Procesare la momentul: 5.1.2025
+- finalizarea procesarii comenzii: 7
+

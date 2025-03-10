@@ -1,0 +1,31 @@
+6
+3
+Tricou_Metallica 2 Negru
+Master_of_Puppets 1 CD
+Thriller 1 CD
+15.03.2023 7
+
+2
+Highway_to_Hell 2 Vinil
+Abbey_Road 5 Vinil
+16.03.2023 5
+
+3
+Master_of_Puppets 1 CD
+Hanorac_Rock 2 Gri
+Jacheta_Gothic 1 Gri
+17.03.2023 10
+
+1
+Tricou_AC\DC 1 Negru
+18.03.2023 3
+
+2
+Back_in_Black 2 CD
+Hanorac_Rock 1 Gri
+19.03.2023 7
+
+2
+Abbey_Road 3 Vinil
+Jacheta_Gothic 1 Gri
+20.03.2023 2

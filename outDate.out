@@ -1,0 +1,251 @@
+Angajati: 
+Manager cu ID-ul: 1
+Nume: Popescu
+Prenume: Ion
+Data angajarii: 10.5.2016
+CNP: 1750524145684
+Salariu: 5375 RON.
+
+
+Operator cu ID-ul: 2
+Nume: Vladislova
+Prenume: Andreea
+Data angajarii: 10.5.2016
+CNP: 2900706030857
+Salariu: 4300 RON.
+
+
+Operator cu ID-ul: 3
+Nume: Toma
+Prenume: Andrei
+Data angajarii: 18.3.2020
+CNP: 1950521701030
+Salariu: 3900 RON.
+
+
+Operator cu ID-ul: 4
+Nume: Opris
+Prenume: Maria
+Data angajarii: 10.5.2021
+CNP: 5000909078870
+Salariu: 3800 RON.
+
+
+Asistent cu ID-ul: 6
+Nume: Negreanu
+Prenume: Ionela
+Data angajarii: 1.1.2024
+CNP: 6040521430057
+Salariu: 2700 RON.
+
+
+
+Produse: 
+Cod produs: 1
+Tipul produsului: ArticolVestimentar
+Denumire produs: Tricou_Metallica
+Stoc: 7
+Pret baza: 50 RON.
+Culoare:Negru
+Marca: Berska
+Pret final: 70 RON.
+
+Cod produs: 2
+Tipul produsului: ArticolVestimentar
+Denumire produs: Tricou_AC\DC
+Stoc: 24
+Pret baza: 70 RON.
+Culoare:Negru
+Marca: Cropp
+Pret final: 90 RON.
+
+Cod produs: 3
+Tipul produsului: DiscVintage
+Denumire produs: Master_of_Puppets
+Stoc: 16
+Pret baza: 45 RON.
+Tipul discului: Vinil
+Casa discuri: Universal
+Data lansare: 15.10.1986
+Trupa: Metallica
+Album: Masters
+Pret final: 90 RON.
+Coeficient de raritate: 3
+Mint: Nu
+
+Cod produs: 4
+Tipul produsului: DiscVintage
+Denumire produs: Thriller
+Stoc: 27
+Pret baza: 100 RON.
+Tipul discului: CD
+Casa discuri: Universal
+Data lansare: 10.05.1982
+Trupa: Michael_Jackson
+Album: Thriller
+Pret final: 130 RON.
+Coeficient de raritate: 2
+Mint: Da
+
+Cod produs: 5
+Tipul produsului: ArticolVestimentar
+Denumire produs: Jacheta_Gothic
+Stoc: 6
+Pret baza: 200 RON.
+Culoare:Gri
+Marca: Adidas
+Pret final: 220 RON.
+
+Cod produs: 6
+Tipul produsului: Disc
+Denumire produs: Highway_to_Hell
+Stoc: 14
+Pret baza: 35 RON.
+Tipul discului: Vinil
+Casa discuri: Epic
+Data lansare: 09.01.1979
+Trupa: AC_DC
+Album: Hell
+Pret final: 40 RON.
+
+Cod produs: 7
+Tipul produsului: DiscVintage
+Denumire produs: Abbey_Road
+Stoc: 9
+Pret baza: 32 RON.
+Tipul discului: Vinil
+Casa discuri: Apple
+Data lansare: 06.09.1969
+Trupa: The_Beatles
+Album: Roads
+Pret final: 77 RON.
+Coeficient de raritate: 3
+Mint: Nu
+
+Cod produs: 8
+Tipul produsului: Disc
+Denumire produs: Back_in_Black
+Stoc: 94
+Pret baza: 10 RON.
+Tipul discului: CD
+Casa discuri: Columbia
+Data lansare: 01.01.1980
+Trupa: AC_DC
+Album: Colours
+Pret final: 15 RON.
+
+Cod produs: 9
+Tipul produsului: ArticolVestimentar
+Denumire produs: Hanorac_Rock
+Stoc: 5
+Pret baza: 175 RON.
+Culoare:Gri
+Marca: Nike
+Pret final: 195 RON.
+
+Cod produs: 10
+Tipul produsului: Disc
+Denumire produs: Master_of_Puppets
+Stoc: 5
+Pret baza: 30 RON.
+Tipul discului: CD
+Casa discuri: Universal
+Data lansare: 15.09.1986
+Trupa: Metallica
+Album: Masters
+Pret final: 35 RON.
+
+
+Comenzi: 
+Comanda cu ID-ul: 1
+Produse comandate: 
+ - Tricou_Metallica cu caracteristica Negru si cantitatea 3.
+ - Master_of_Puppets cu caracteristica CD si cantitatea 2.
+ - Thriller cu caracteristica CD si cantitatea 1.
+Data primire comanda: 1.1.2025
+Durata solutionare: 3 zile.
+Valoare comanda (fara livrare si impachetare): 310 RON.
+Valoare totala comanda: 410 RON.
+
+Comanda cu ID-ul: 2
+Produse comandate: 
+ - Tricou_Metallica cu caracteristica Negru si cantitatea 3.
+ - Master_of_Puppets cu caracteristica CD si cantitatea 1.
+ - Thriller cu caracteristica CD si cantitatea 1.
+Data primire comanda: 1.1.2025
+Durata solutionare: 3 zile.
+Valoare comanda (fara livrare si impachetare): 280 RON.
+Valoare totala comanda: 375 RON.
+
+Comanda cu ID-ul: 3
+Produse comandate: 
+ - Hanorac_Rock cu caracteristica Gri si cantitatea 1.
+ - Tricou_Metallica cu caracteristica Negru si cantitatea 2.
+ - Highway_to_Hell cu caracteristica Vinil si cantitatea 1.
+ - Abbey_Road cu caracteristica Vinil si cantitatea 1.
+Data primire comanda: 1.1.2025
+Durata solutionare: 3 zile.
+Valoare comanda (fara livrare si impachetare): 342 RON.
+Valoare totala comanda: 452 RON.
+
+Comanda cu ID-ul: 4
+Produse comandate: 
+ - Master_of_Puppets cu caracteristica Vinil si cantitatea 2.
+ - Master_of_Puppets cu caracteristica CD si cantitatea 2.
+Data primire comanda: 1.1.2025
+Durata solutionare: 2 zile.
+Valoare comanda (fara livrare si impachetare): 150 RON.
+Valoare totala comanda: 250 RON.
+
+Comanda cu ID-ul: 5
+Produse comandate: 
+ - Jacheta_Gothic cu caracteristica Gri si cantitatea 1.
+Data primire comanda: 1.1.2025
+Durata solutionare: 1 zile.
+Valoare comanda (fara livrare si impachetare): 200 RON.
+Valoare totala comanda: 220 RON.
+
+Comanda cu ID-ul: 6
+Produse comandate: 
+ - Jacheta_Gothic cu caracteristica Gri si cantitatea 1.
+Data primire comanda: 1.1.2025
+Durata solutionare: 1 zile.
+Valoare comanda (fara livrare si impachetare): 200 RON.
+Valoare totala comanda: 220 RON.
+
+Comanda cu ID-ul: 7
+Produse comandate: 
+ - Back_in_Black cu caracteristica CD si cantitatea 2.
+ - Hanorac_Rock cu caracteristica Gri si cantitatea 2.
+Data primire comanda: 1.1.2025
+Durata solutionare: 4 zile.
+Valoare comanda (fara livrare si impachetare): 370 RON.
+Valoare totala comanda: 420 RON.
+
+Comanda cu ID-ul: 8
+Produse comandate: 
+ - Thriller cu caracteristica CD si cantitatea 1.
+ - Master_of_Puppets cu caracteristica Vinil si cantitatea 2.
+Data primire comanda: 1.1.2025
+Durata solutionare: 2 zile.
+Valoare comanda (fara livrare si impachetare): 190 RON.
+Valoare totala comanda: 310 RON.
+
+Comanda cu ID-ul: 9
+Produse comandate: 
+ - Back_in_Black cu caracteristica CD si cantitatea 2.
+ - Jacheta_Gothic cu caracteristica Gri si cantitatea 2.
+Data primire comanda: 1.1.2025
+Durata solutionare: 1 zile.
+Valoare comanda (fara livrare si impachetare): 420 RON.
+Valoare totala comanda: 470 RON.
+
+Comanda cu ID-ul: 10
+Produse comandate: 
+ - Back_in_Black cu caracteristica CD si cantitatea 2.
+ - Hanorac_Rock cu caracteristica Gri si cantitatea 2.
+Data primire comanda: 1.1.2025
+Durata solutionare: 1 zile.
+Valoare comanda (fara livrare si impachetare): 370 RON.
+Valoare totala comanda: 420 RON.
+

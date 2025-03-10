@@ -1,0 +1,52 @@
+10
+3
+Tricou_Metallica 3 Negru
+Master_of_Puppets 2 CD
+Thriller 1 CD
+01.01.2025 3
+
+3
+Tricou_Metallica 3 Negru
+Master_of_Puppets 1 CD
+Thriller 1 CD
+01.01.2025 3
+
+4
+Hanorac_Rock 1 Gri
+Tricou_Metallica 2 Negru
+Highway_to_Hell 1 Vinil
+Abbey_Road 1 Vinil
+01.01.2025 3
+
+2
+Master_of_Puppets 2 Vinil
+Master_of_Puppets 2 CD
+01.01.2025 2
+
+1
+Jacheta_Gothic 1 Gri
+01.01.2025 1
+
+1
+Jacheta_Gothic 1 Gri
+01.01.2025 1
+
+2
+Back_in_Black 2 CD
+Hanorac_Rock 2 Gri
+01.01.2025 4
+
+2
+Thriller 1 CD
+Master_of_Puppets 2 Vinil
+01.01.2025 2
+
+2
+Back_in_Black 2 CD
+Jacheta_Gothic 2 Gri
+01.01.2025 1
+
+2
+Back_in_Black 2 CD
+Hanorac_Rock 2 Gri
+01.01.2025 1
